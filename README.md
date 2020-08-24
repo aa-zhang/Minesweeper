@@ -10,3 +10,5 @@ Insane (choosing none of the available options) - 80% of the board will contain 
 ### Gameplay ###  
 <img src ="images/gameplay.PNG" width="300"> <img src ="images/lose.PNG" width="300">
 
+### About ###  
+This project was made in my grade 11 copmuter science class as a culmulative project for C++.
